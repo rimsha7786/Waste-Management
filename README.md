@@ -22,33 +22,33 @@ This system is designed to manage and streamline waste management operations inc
 - JavaScript
 - Bootstrap (UI Styling)
 - 
-## 📂 Project Structure
-Waste-app/
-│
-├── areas.php              # Manage city areas
-├── bins.php               # Bin management module
-├── complaints.php         # User complaints handling
-├── db.php                 # Database connection file
-├── employees.php          # Employee management
-├── get_bins.php          # API endpoint for bins data
-├── get_complaints.php    # Fetch complaints data
-├── get_dashboards.php    # Dashboard statistics
-├── get_payments.php      # Payment data API
-├── index.php             # Main entry point (Dashboard/Home)
-├── payments.php          # Payment management module
-├── routes.php            # Waste collection routes
-├── vehicles.php          # Vehicle management system
-├── Waste_Management_pk.sql # Database schema
-└── README.md             # Project documentation
+## 📂 Project Structure<br>
+Waste-app/<br>
+│<br>
+├── areas.php              # Manage city areas<br>
+├── bins.php               # Bin management module<br>
+├── complaints.php         # User complaints handling<br>
+├── db.php                 # Database connection file<br>
+├── employees.php          # Employee management<br>
+├── get_bins.php          # API endpoint for bins data<br>
+├── get_complaints.php    # Fetch complaints data<br>
+├── get_dashboards.php    # Dashboard statistics<br>
+├── get_payments.php      # Payment data API<br>
+├── index.php             # Main entry point (Dashboard/Home)<br>
+├── payments.php          # Payment management module<br>
+├── routes.php            # Waste collection routes<br>
+├── vehicles.php          # Vehicle management system<br>
+├── Waste_Management_pk.sql # Database schema<br>
+└── README.md             # Project documentation<br>
 
-📊 Key Features
-📍 Area-based waste tracking system
-🗑️ Smart bin monitoring
-🚛 Route & vehicle management
-👨‍💼 Employee assignment system
-⚠️ Complaint management module
-💳 Payment tracking system
-📈 Admin dashboard with analytics
+📊 Key Features<br>
+📍 Area-based waste tracking system<br>
+🗑️ Smart bin monitoring<br>
+🚛 Route & vehicle management<br>
+👨‍💼 Employee assignment system<br>
+⚠️ Complaint management module<br>
+💳 Payment tracking system<br>
+📈 Admin dashboard with analytics<br>
 
 **Technology**
 PHP + MySQL Web Application
