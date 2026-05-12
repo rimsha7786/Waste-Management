@@ -41,7 +41,7 @@ Waste-app/<br>
 ├── Waste_Management_pk.sql # Database schema<br>
 └── README.md             # Project documentation<br>
 
-📊 Key Features<br>
+**📊 Key Features<br>**
 📍 Area-based waste tracking system<br>
 🗑️ Smart bin monitoring<br>
 🚛 Route & vehicle management<br>
